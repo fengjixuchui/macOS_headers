@@ -15,8 +15,10 @@ function dump_item() {
 
 function class_dump() {
 
+    _bld=$(sw_vers -buildVersion)
 	_osx=$(sw_vers -productVersion)
 	_mjr=${_osx%.*}
+    _log="$HOME"/GitHub/wb_headers/logs/"$_bld"_updates.log
 
 	for entry in "$1"/*
 	do
@@ -42,8 +44,17 @@ function class_dump() {
 				echo
 			fi
 
-			dump_path="$HOME"/GitHub/wb_headers/"$_mjr"/"$_fldr"/"$_pref"/"$_vers"
-			dump_item "$_file" "$dump_path"
+			dump_path="$HOME"/GitHub/wb_headers/macOS/"$_fldr"/"$_pref"/"$_vers"
+            # dump_item "$_file" "$dump_path"
+
+            if [ ! -e "$dump_path" ]; then
+                echo "$_pref" : "$_vers"
+                mkdir -p "$dump_path"
+                "$HOME/bin/dump.sh" "$_file" "$dump_path"
+                echo
+                # changelog
+                echo "$_fldr/$_pref : $_vers" > "$_log"
+            fi
 
 			# echo "path: $_file"
 			# echo "base: $_fldr"
@@ -56,8 +67,6 @@ function class_dump() {
 	done
 
 }
-
-# mkdir "$USER"/Desktop/osx_headers
 
 class_dump "/Applications"
 class_dump "/Applications/Utilities"
