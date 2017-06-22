@@ -36,7 +36,7 @@ if [[ "$1" ]]; then
 			fi	
 			if [[ "$2" ]]; then
 				("$classdump" -H "$dumpfile" -o "$2")
-				open -R "$2"
+                # open -R "$2"
 			else
 				("$classdump" "$dumpfile")
 			fi 

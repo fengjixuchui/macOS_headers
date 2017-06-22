@@ -4,15 +4,6 @@ function plistbuddy () {
 	/usr/libexec/PlistBuddy -c "$@"
 }
 
-function dump_item() {
-	if [ ! -e "$2" ]; then
-		echo "$_pref" : "$_vers"
-	  	mkdir -p "$2"
-	  	"$HOME/bin/dump.sh" "$1" "$2"
-	  	echo
-	fi
-}
-
 function class_dump() {
 
     _bld=$(sw_vers -buildVersion)
@@ -53,7 +44,7 @@ function class_dump() {
                 "$HOME/bin/dump.sh" "$_file" "$dump_path"
                 echo
                 # changelog
-                echo "$_fldr/$_pref : $_vers" > "$_log"
+                echo "$_fldr/$_pref : $_vers" >> "$_log"
             fi
 
 			# echo "path: $_file"
