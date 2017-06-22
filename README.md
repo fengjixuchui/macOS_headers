@@ -1,4 +1,4 @@
-#macOS Headers
+# macOS Headers
 
 This repository is a class dump of *most* Apple Applications and Frameworks on macOS. This could be useful to someone for learning/reversing a program or writing a [mySIMBL](https://github.com/w0lfschild/mySIMBL) plugin. This can also be used to check what has been updated between macOS releases.
 
