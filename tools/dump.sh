@@ -1,7 +1,9 @@
 #! /bin/bash
 
-deprotect="$HOME/bin/classDump/deprotect"
-classdump="$HOME/bin/classDump/class-dump"
+_path=$(dirname "$0")
+_base=$(dirname "$_path")
+deprotect="$_path/deprotect"
+classdump="$_path/class-dump"
 dumpfile=""
 
 if [[ "$1" ]]; then
