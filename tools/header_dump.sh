@@ -1,7 +1,7 @@
 # Class dump most important macOS applications and frameworks
 
-_path=$(dirname "$0")
-_base=$(dirname "$_path")
+_exec=$(dirname "$0")
+_home=$(dirname "$_exec")
 
 function plistbuddy () {
 	/usr/libexec/PlistBuddy -c "$@"
@@ -12,7 +12,7 @@ function class_dump() {
     _bld=$(sw_vers -buildVersion)
 	_osx=$(sw_vers -productVersion)
 	_mjr=${_osx%.*}
-    _log="$_base"/logs/"$_bld"_updates.log
+    _log="$_home"/logs/"$_bld"_updates.log
 
 	for entry in "$1"/*
 	do
@@ -38,13 +38,15 @@ function class_dump() {
 				echo
 			fi
 
-			dump_path="$_base"/macOS/"$_fldr"/"$_pref"/"$_vers"
+			dump_path="$_home"/macOS/"$_fldr"/"$_pref"/"$_vers"
             # dump_item "$_file" "$dump_path"
+
+            echo "$dump_path"
 
             if [ ! -e "$dump_path" ]; then
                 echo "$_pref" : "$_vers"
                 mkdir -p "$dump_path"
-                "$_path/dump.sh" "$_file" "$dump_path"
+                "$_exec/dump.sh" "$_file" "$dump_path"
                 echo
                 # changelog
                 echo "$_fldr/$_pref : $_vers" >> "$_log"
