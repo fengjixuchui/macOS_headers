@@ -27,9 +27,8 @@ if [[ "$1" ]]; then
 		echo "Successfully dumped unprotected file"
 	else	
 		if [[ "$extension" == "app" ]]; then
-			if [[ "${1: -1}" == "/" ]]; then
-				target=${1%/}
-			fi
+			target=${1%/}
+			echo "Tyring to dump protected file $target..."
 			("$deprotect" "$target"/Contents/MacOS/"$filename" /tmp/"$filename"_unprotected)
 			if [[ -e /tmp/"$filename"_unprotected ]]; then
 				dumpfile=/tmp/"$filename"_unprotected
