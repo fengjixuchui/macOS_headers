@@ -29,28 +29,33 @@ function class_dump() {
 			if [[ "$_fext" == "framework" ]]; then _info="$_file"/Resources/Info.plist; fi
 
 			# _shrt=$(plistbuddy "Print CFBundleShortVersionString" "$_info")
-			_vers=$(plistbuddy "Print CFBundleVersion" "$_info")
-
-			_resl="$?"
-			if [[ "$_resl" != 0 ]]; then 
-				echo "$_resl : $_vers"
-				echo "$_file"
-				echo
+			_vers=$(plistbuddy "Print CFBundleVersion" "$_info" 2>/dev/null)
+			if [[ $_vers == *"File Doesn't Exist"* ]]; then
+				_info2="$_file"/Resources/Info.plist
+				_vers=$(plistbuddy "Print CFBundleVersion" "$_info2" 2>/dev/null)
 			fi
 
-			dump_path="$_home"/macOS/"$_fldr"/"$_pref"/"$_vers"
-            # dump_item "$_file" "$dump_path"
+			if [[ $_vers != *"File"* ]]; then
+				_resl="$?"
+				if [[ "$_resl" != 0 ]]; then 
+					echo "$_resl : $_vers"
+					echo "$_file"
+					echo
+				fi
 
-            echo "$dump_path"
-
-            if [ ! -e "$dump_path" ]; then
-                echo "$_pref" : "$_vers"
-                mkdir -p "$dump_path"
-                "$_exec/dump.sh" "$_file" "$dump_path"
-                echo
-                # changelog
-                echo "$_fldr/$_pref : $_vers" >> "$_log"
-            fi
+				dump_path="$_home"/macOS/"$_fldr"/"$_pref"/"$_vers"
+	            # dump_item "$_file" "$dump_path"
+			
+	            if [ ! -e "$dump_path" ]; then
+	            	echo "$dump_path"
+	                echo "$_pref" : "$_vers"
+	                mkdir -p "$dump_path"
+	                "$_exec/dump.sh" "$_file" "$dump_path"
+	                echo
+	                # changelog
+	                echo "$_fldr/$_pref : $_vers" >> "$_log"
+	            fi
+        	fi
 
 			# echo "path: $_file"
 			# echo "base: $_fldr"
