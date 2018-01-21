@@ -16,6 +16,8 @@ if [[ ! -e "$_log" ]]; then
 	"$_dump"
 	echo "Publishing..."
 	"$_pgit"
+else
+	echo "Headers already up to date for $_bld"
 fi
 
 echo "Done"

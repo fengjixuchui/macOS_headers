@@ -1,0 +1,40 @@
+New macOS version detected
+Dumping headers...
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/APTransport/356.14.3
+APTransport : 356.14.3
+Dumping headers for : /System/Library/PrivateFrameworks/APTransport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlayReceiver/356.14.3
+AirPlayReceiver : 356.14.3
+Dumping headers for : /System/Library/PrivateFrameworks/AirPlayReceiver.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlaySender/356.14.3
+AirPlaySender : 356.14.3
+Dumping headers for : /System/Library/PrivateFrameworks/AirPlaySender.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlaySupport/356.14.3
+AirPlaySupport : 356.14.3
+Dumping headers for : /System/Library/PrivateFrameworks/AirPlaySupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LinkPresentation/59.5.1
+LinkPresentation : 59.5.1
+Dumping headers for : /System/Library/PrivateFrameworks/LinkPresentation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MediaControlSender/356.14.3
+MediaControlSender : 356.14.3
+Dumping headers for : /System/Library/PrivateFrameworks/MediaControlSender.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/AirPlayUIAgent/356.14.3
+AirPlayUIAgent : 356.14.3
+Dumping headers for : /System/Library/CoreServices/AirPlayUIAgent.app
+Successfully dumped unprotected file
+
+
+Publishing...
+/Users/w0lf/GitHub/wb_headers
