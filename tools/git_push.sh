@@ -6,6 +6,7 @@ _path=$(dirname "$0")
 cd "$_path"
 cd ../
 echo "$PWD"
+git pull
 git add .
 git commit -m "macOS $_productv : BUILD $_buildv"
 git push
