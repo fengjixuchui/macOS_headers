@@ -1,61 +1,70 @@
 New macOS version detected
 Dumping headers...
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Coda 2/56953
-Coda 2 : 56953
-Dumping headers for : /Applications/Coda 2.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/GitHub Desktop/1.1.1
+GitHub Desktop : 1.1.1
+Dumping headers for : /Applications/GitHub Desktop.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Firefox/5918.3.15
-Firefox : 5918.3.15
-Dumping headers for : /Applications/Firefox.app
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Flashlight/62
-Flashlight : 62
-Dumping headers for : /Applications/Flashlight.app
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome Canary/3376.1
-Google Chrome Canary : 3376.1
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome Canary/3382.0
+Google Chrome Canary : 3382.0
 Dumping headers for : /Applications/Google Chrome Canary.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/cDock/5087
-cDock : 5087
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome/3325.181
+Google Chrome : 3325.181
+Dumping headers for : /Applications/Google Chrome.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Keynote/5576
+Keynote : 5576
+Dumping headers for : /Applications/Keynote.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Numbers/5576
+Numbers : 5576
+Dumping headers for : /Applications/Numbers.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Pages/5576
+Pages : 5576
+Dumping headers for : /Applications/Pages.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Safari Technology Preview/13606.1.9.3.1
+Safari Technology Preview : 13606.1.9.3.1
+Dumping headers for : /Applications/Safari Technology Preview.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Spotify/1.0.77.338.g758ebd78-42
+Spotify : 1.0.77.338.g758ebd78-42
+Dumping headers for : /Applications/Spotify.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/cDock/5208
+cDock : 5208
 Dumping headers for : /Applications/cDock.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AppKit/1561.40.112
-AppKit : 1561.40.112
-Dumping headers for : /System/Library/Frameworks/AppKit.framework
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/stts/20
+stts : 20
+Dumping headers for : /Applications/stts.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreSpotlight/231.4.8
-CoreSpotlight : 231.4.8
-Dumping headers for : /System/Library/Frameworks/CoreSpotlight.framework
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AOSKit/267
+AOSKit : 267
+Dumping headers for : /System/Library/PrivateFrameworks/AOSKit.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Security/58286.51.6
-Security : 58286.51.6
-Dumping headers for : /System/Library/Frameworks/Security.framework
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StorageKit/470.17
+StorageKit : 470.17
+Dumping headers for : /System/Library/PrivateFrameworks/StorageKit.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IOAccelerator/378.18.1
-IOAccelerator : 378.18.1
-Dumping headers for : /System/Library/PrivateFrameworks/IOAccelerator.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/CoreServicesUIAgent/180.7.4
-CoreServicesUIAgent : 180.7.4
-Dumping headers for : /System/Library/CoreServices/CoreServicesUIAgent.app
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Keychain Circle Notification/58286.51.6
-Keychain Circle Notification : 58286.51.6
-Dumping headers for : /System/Library/CoreServices/Keychain Circle Notification.app
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/loginwindow/1791.4.8
+loginwindow : 1791.4.8
+Dumping headers for : /System/Library/CoreServices/loginwindow.app
 Successfully dumped unprotected file
 
 
 Publishing...
 /Users/w0lf/GitHub/wb_headers
-Already up-to-date.
