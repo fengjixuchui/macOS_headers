@@ -1,466 +1,2445 @@
 New macOS version detected
 Dumping headers...
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Battle.net/1.12.0 (10156)
-Battle.net : 1.12.0 (10156)
-Dumping headers for : /Applications/Battle.net.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/App Store/1
+App Store : 1
+Dumping headers for : /Applications/App Store.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Dark Boot/130
-Dark Boot : 130
-Dumping headers for : /Applications/Dark Boot.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Automator/444.23.1
+Automator : 444.23.1
+Dumping headers for : /Applications/Automator.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/GitHub Desktop/1.2.0
-GitHub Desktop : 1.2.0
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Books/1585.3
+Books : 1585.3
+Dumping headers for : /Applications/Books.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Calendar/2228
+Calendar : 2228
+Dumping headers for : /Applications/Calendar.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Contacts/1861
+Contacts : 1861
+Dumping headers for : /Applications/Contacts.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Dictionary/203.15.5
+Dictionary : 203.15.5
+Dumping headers for : /Applications/Dictionary.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Font Book/320
+Font Book : 320
+Dumping headers for : /Applications/Font Book.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/GitHub Desktop/1.2.2
+GitHub Desktop : 1.2.2
 Dumping headers for : /Applications/GitHub Desktop.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome Canary/3446.0
-Google Chrome Canary : 3446.0
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome Canary/3449.0
+Google Chrome Canary : 3449.0
 Dumping headers for : /Applications/Google Chrome Canary.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/HiddenMe/28
-HiddenMe : 28
-Dumping headers for : /Applications/HiddenMe.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome/3396.62
+Google Chrome : 3396.62
+Dumping headers for : /Applications/Google Chrome.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Mail/3445.9.1
-Mail : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Home/1
+Home : 1
+Dumping headers for : /Applications/Home.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Mail/3445.100.9.7
+Mail : 3445.100.9.7
 Dumping headers for : /Applications/Mail.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/PhotoScapeX/282
-PhotoScapeX : 282
-Dumping headers for : /Applications/PhotoScapeX.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Maps/2133.20.5.10.7
+Maps : 2133.20.5.10.7
+Dumping headers for : /Applications/Maps.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Safari Technology Preview/13606.1.18
-Safari Technology Preview : 13606.1.18
-Dumping headers for : /Applications/Safari Technology Preview.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/News/1572.10.5
+News : 1572.10.5
+Dumping headers for : /Applications/News.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Safari/13605.3.4
-Safari : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Notes/878.14
+Notes : 878.14
+Dumping headers for : /Applications/Notes.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Photo Booth/1006
+Photo Booth : 1006
+Dumping headers for : /Applications/Photo Booth.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Photos/3401.2.164
+Photos : 3401.2.164
+Dumping headers for : /Applications/Photos.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Preview/944.6.8.1
+Preview : 944.6.8.1
+Dumping headers for : /Applications/Preview.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/QuickTime Player/928.40
+QuickTime Player : 928.40
+Dumping headers for : /Applications/QuickTime Player.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Reminders/1475
+Reminders : 1475
+Dumping headers for : /Applications/Reminders.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Safari/14606.1.17.40.4
+Safari : 14606.1.17.40.4
 Dumping headers for : /Applications/Safari.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Sublime Text/3176
-Sublime Text : 3176
-Dumping headers for : /Applications/Sublime Text.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Stocks/51.4.4
+Stocks : 51.4.4
+Dumping headers for : /Applications/Stocks.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/iTunes/12.7.5
-iTunes : 12.7.5
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/TextEdit/334
+TextEdit : 334
+Dumping headers for : /Applications/TextEdit.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/VoiceMemos/2.0
+VoiceMemos : 2.0
+Dumping headers for : /Applications/VoiceMemos.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Xcode-beta/14274.16
+Xcode-beta : 14274.16
+Dumping headers for : /Applications/Xcode-beta.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/iTerm/3.1.6
+iTerm : 3.1.6
+Dumping headers for : /Applications/iTerm.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/iTunes/12.9.0
+iTunes : 12.9.0
 Dumping headers for : /Applications/iTunes.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/stts/25
-stts : 25
-Dumping headers for : /Applications/stts.app
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/AirPort Utility/638.10
+AirPort Utility : 638.10
+Dumping headers for : /Applications/Utilities/AirPort Utility.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Bluetooth File Exchange/6.0.7f7
-Bluetooth File Exchange : 6.0.7f7
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Audio MIDI Setup/3.3
+Audio MIDI Setup : 3.3
+Dumping headers for : /Applications/Utilities/Audio MIDI Setup.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Bluetooth File Exchange/6.0.8d20
+Bluetooth File Exchange : 6.0.8d20
 Dumping headers for : /Applications/Utilities/Bluetooth File Exchange.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AVFoundation/1536.36
-AVFoundation : 1536.36
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Boot Camp Assistant/6067.200.3
+Boot Camp Assistant : 6067.200.3
+Dumping headers for : /Applications/Utilities/Boot Camp Assistant.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Console/3.0.11
+Console : 3.0.11
+Dumping headers for : /Applications/Utilities/Console.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Digital Color Meter/5.12
+Digital Color Meter : 5.12
+Dumping headers for : /Applications/Utilities/Digital Color Meter.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Disk Utility/1654
+Disk Utility : 1654
+Dumping headers for : /Applications/Utilities/Disk Utility.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Keychain Access/55237.200.6
+Keychain Access : 55237.200.6
+Dumping headers for : /Applications/Utilities/Keychain Access.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Migration Assistant/10.14
+Migration Assistant : 10.14
+Dumping headers for : /Applications/Utilities/Migration Assistant.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Script Editor/198
+Script Editor : 198
+Dumping headers for : /Applications/Utilities/Script Editor.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/Terminal/407
+Terminal : 407
+Dumping headers for : /Applications/Utilities/Terminal.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Utilities/VoiceOver Utility/562.38.2
+VoiceOver Utility : 562.38.2
+Dumping headers for : /Applications/Utilities/VoiceOver Utility.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AGL/AGL-3.3.2
+AGL : AGL-3.3.2
+Dumping headers for : /System/Library/Frameworks/AGL.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AVFoundation/1540.54.3
+AVFoundation : 1540.54.3
 Dumping headers for : /System/Library/Frameworks/AVFoundation.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CFNetwork/902
-CFNetwork : 902
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AVKit/445.50.20.3
+AVKit : 445.50.20.3
+Dumping headers for : /System/Library/Frameworks/AVKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AdSupport/1
+AdSupport : 1
+Dumping headers for : /System/Library/Frameworks/AdSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AddressBook/1861
+AddressBook : 1861
+Dumping headers for : /System/Library/Frameworks/AddressBook.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AppKit/1639.10.111
+AppKit : 1639.10.111
+Dumping headers for : /System/Library/Frameworks/AppKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AppleScriptObjC/35
+AppleScriptObjC : 35
+Dumping headers for : /System/Library/Frameworks/AppleScriptObjC.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AudioVideoBridging/700.1
+AudioVideoBridging : 700.1
+Dumping headers for : /System/Library/Frameworks/AudioVideoBridging.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Automator/444.23.1
+Automator : 444.23.1
+Dumping headers for : /System/Library/Frameworks/Automator.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CFNetwork/948.2
+CFNetwork : 948.2
 Dumping headers for : /System/Library/Frameworks/CFNetwork.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreDisplay/99.14
-CoreDisplay : 99.14
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CloudKit/736.118
+CloudKit : 736.118
+Dumping headers for : /System/Library/Frameworks/CloudKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Cocoa/23
+Cocoa : 23
+Dumping headers for : /System/Library/Frameworks/Cocoa.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ColorSync/3331
+ColorSync : 3331
+Dumping headers for : /System/Library/Frameworks/ColorSync.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Contacts/2876
+Contacts : 2876
+Dumping headers for : /System/Library/Frameworks/Contacts.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ContactsUI/1861
+ContactsUI : 1861
+Dumping headers for : /System/Library/Frameworks/ContactsUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreData/862.7
+CoreData : 862.7
+Dumping headers for : /System/Library/Frameworks/CoreData.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreDisplay/101.8
+CoreDisplay : 101.8
 Dumping headers for : /System/Library/Frameworks/CoreDisplay.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreFoundation/1454.90
-CoreFoundation : 1454.90
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreFoundation/1535.12
+CoreFoundation : 1535.12
 Dumping headers for : /System/Library/Frameworks/CoreFoundation.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreMedia/2276.63
-CoreMedia : 2276.63
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreGraphics/1215.5
+CoreGraphics : 1215.5
+Dumping headers for : /System/Library/Frameworks/CoreGraphics.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreImage/643
+CoreImage : 643
+Dumping headers for : /System/Library/Frameworks/CoreImage.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreLocation/2245.4.48.9
+CoreLocation : 2245.4.48.9
+Dumping headers for : /System/Library/Frameworks/CoreLocation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreMedia/2280.60.8.2
+CoreMedia : 2280.60.8.2
 Dumping headers for : /System/Library/Frameworks/CoreMedia.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreMediaIO/4995
-CoreMediaIO : 4995
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreMediaIO/5019
+CoreMediaIO : 5019
 Dumping headers for : /System/Library/Frameworks/CoreMediaIO.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Foundation/1454.90
-Foundation : 1454.90
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreServices/921.2
+CoreServices : 921.2
+Dumping headers for : /System/Library/Frameworks/CoreServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreSpotlight/231.28.2
+CoreSpotlight : 231.28.2
+Dumping headers for : /System/Library/Frameworks/CoreSpotlight.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreTelephony/6294.1
+CoreTelephony : 6294.1
+Dumping headers for : /System/Library/Frameworks/CoreTelephony.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/CoreWLAN/1370.5
+CoreWLAN : 1370.5
+Dumping headers for : /System/Library/Frameworks/CoreWLAN.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/EventKit/787
+EventKit : 787
+Dumping headers for : /System/Library/Frameworks/EventKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ExceptionHandling/13
+ExceptionHandling : 13
+Dumping headers for : /System/Library/Frameworks/ExceptionHandling.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Foundation/1535.12
+Foundation : 1535.12
 Dumping headers for : /System/Library/Frameworks/Foundation.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/GLKit/101
-GLKit : 101
-Dumping headers for : /System/Library/Frameworks/GLKit.framework
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/GameKit/563.118
+GameKit : 563.118
+Dumping headers for : /System/Library/Frameworks/GameKit.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/IOBluetooth/6.0.7f7
-IOBluetooth : 6.0.7f7
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ICADevices/1511.3
+ICADevices : 1511.3
+Dumping headers for : /System/Library/Frameworks/ICADevices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/IOBluetooth/6.0.8d20
+IOBluetooth : 6.0.8d20
 Dumping headers for : /System/Library/Frameworks/IOBluetooth.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/IOBluetoothUI/6.0.7f7
-IOBluetoothUI : 6.0.7f7
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/IOBluetoothUI/6.0.8d20
+IOBluetoothUI : 6.0.8d20
 Dumping headers for : /System/Library/Frameworks/IOBluetoothUI.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/IOSurface/211.15
-IOSurface : 211.15
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/IOSurface/245
+IOSurface : 245
 Dumping headers for : /System/Library/Frameworks/IOSurface.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/JavaScriptCore/13605.3.4
-JavaScriptCore : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ImageCaptureCore/1511.3
+ImageCaptureCore : 1511.3
+Dumping headers for : /System/Library/Frameworks/ImageCaptureCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ImageIO/1771.2
+ImageIO : 1771.2
+Dumping headers for : /System/Library/Frameworks/ImageIO.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/InputMethodKit/365.15.2
+InputMethodKit : 365.15.2
+Dumping headers for : /System/Library/Frameworks/InputMethodKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/InstallerPlugins/928
+InstallerPlugins : 928
+Dumping headers for : /System/Library/Frameworks/InstallerPlugins.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/JavaScriptCore/14606.1.17.40.4
+JavaScriptCore : 14606.1.17.40.4
 Dumping headers for : /System/Library/Frameworks/JavaScriptCore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Kernel/17.7.0
-Kernel : 17.7.0
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Kernel/18.0.0
+Kernel : 18.0.0
 Dumping headers for : /System/Library/Frameworks/Kernel.framework
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/LocalAuthentication/425.70.1
-LocalAuthentication : 425.70.1
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/LocalAuthentication/425.200.19.0.1
+LocalAuthentication : 425.200.19.0.1
 Dumping headers for : /System/Library/Frameworks/LocalAuthentication.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/MediaToolbox/2276.63
-MediaToolbox : 2276.63
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/MapKit/1833.20.5.10.7
+MapKit : 1833.20.5.10.7
+Dumping headers for : /System/Library/Frameworks/MapKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/MediaAccessibility/114.3
+MediaAccessibility : 114.3
+Dumping headers for : /System/Library/Frameworks/MediaAccessibility.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/MediaLibrary/755
+MediaLibrary : 755
+Dumping headers for : /System/Library/Frameworks/MediaLibrary.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/MediaToolbox/2280.60.8.2
+MediaToolbox : 2280.60.8.2
 Dumping headers for : /System/Library/Frameworks/MediaToolbox.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Metal/125.29
-Metal : 125.29
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Metal/157.25
+Metal : 157.25
 Dumping headers for : /System/Library/Frameworks/Metal.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/OpenCL/2.8.21
-OpenCL : 2.8.21
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/MetalKit/107.4.1
+MetalKit : 107.4.1
+Dumping headers for : /System/Library/Frameworks/MetalKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/NaturalLanguage/1.15.15
+NaturalLanguage : 1.15.15
+Dumping headers for : /System/Library/Frameworks/NaturalLanguage.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Network/1
+Network : 1
+Dumping headers for : /System/Library/Frameworks/Network.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/NotificationCenter/710
+NotificationCenter : 710
+Dumping headers for : /System/Library/Frameworks/NotificationCenter.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/OSAKit/107
+OSAKit : 107
+Dumping headers for : /System/Library/Frameworks/OSAKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/OpenCL/2.8.20
+OpenCL : 2.8.20
 Dumping headers for : /System/Library/Frameworks/OpenCL.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/OpenGL/16.7.4
-OpenGL : 16.7.4
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/OpenGL/17.0.26
+OpenGL : 17.0.26
 Dumping headers for : /System/Library/Frameworks/OpenGL.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/QuartzCore/584.62
-QuartzCore : 584.62
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Photos/3401.2.164
+Photos : 3401.2.164
+Dumping headers for : /System/Library/Frameworks/Photos.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/PhotosUI/3401.2.164
+PhotosUI : 3401.2.164
+Dumping headers for : /System/Library/Frameworks/PhotosUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/QTKit/3026.1
+QTKit : 3026.1
+Dumping headers for : /System/Library/Frameworks/QTKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/QuartzCore/658.2
+QuartzCore : 658.2
 Dumping headers for : /System/Library/Frameworks/QuartzCore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Ruby/2.3.7-131.70.1
-Ruby : 2.3.7-131.70.1
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/QuickLook/765.6
+QuickLook : 765.6
+Dumping headers for : /System/Library/Frameworks/QuickLook.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/QuickTime/3026.1
+QuickTime : 3026.1
+Dumping headers for : /System/Library/Frameworks/QuickTime.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Ruby/2.3.6-131.0.0.10.1
+Ruby : 2.3.6-131.0.0.10.1
 Dumping headers for : /System/Library/Frameworks/Ruby.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/SafariServices/13605.3.4
-SafariServices : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/SafariServices/14606.1.17.40.4
+SafariServices : 14606.1.17.40.4
 Dumping headers for : /System/Library/Frameworks/SafariServices.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Security/58286.70.4
-Security : 58286.70.4
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/SceneKit/456.4
+SceneKit : 456.4
+Dumping headers for : /System/Library/Frameworks/SceneKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/ScriptingBridge/74
+ScriptingBridge : 74
+Dumping headers for : /System/Library/Frameworks/ScriptingBridge.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Security/58286.200.129.11.2
+Security : 58286.200.129.11.2
 Dumping headers for : /System/Library/Frameworks/Security.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/VideoToolbox/2276.63
-VideoToolbox : 2276.63
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/SecurityFoundation/55185.200.14
+SecurityFoundation : 55185.200.14
+Dumping headers for : /System/Library/Frameworks/SecurityFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/SecurityInterface/55109.200.5
+SecurityInterface : 55109.200.5
+Dumping headers for : /System/Library/Frameworks/SecurityInterface.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/StoreKit/1
+StoreKit : 1
+Dumping headers for : /System/Library/Frameworks/StoreKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/TWAIN/1000
+TWAIN : 1000
+Dumping headers for : /System/Library/Frameworks/TWAIN.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/UserNotifications/
+UserNotifications : 
+Dumping headers for : /System/Library/Frameworks/UserNotifications.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/VideoDecodeAcceleration/11
+VideoDecodeAcceleration : 11
+Dumping headers for : /System/Library/Frameworks/VideoDecodeAcceleration.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/VideoSubscriberAccount/270.1
+VideoSubscriberAccount : 270.1
+Dumping headers for : /System/Library/Frameworks/VideoSubscriberAccount.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/VideoToolbox/2280.60.8.2
+VideoToolbox : 2280.60.8.2
 Dumping headers for : /System/Library/Frameworks/VideoToolbox.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/WebKit/13605.3.4
-WebKit : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/Vision/2.0.49
+Vision : 2.0.49
+Dumping headers for : /System/Library/Frameworks/Vision.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/WebKit/14606.1.17.40.4
+WebKit : 14606.1.17.40.4
 Dumping headers for : /System/Library/Frameworks/WebKit.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/APTransport/366.65
-APTransport : 366.65
+/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/iTunesLibrary/12.9.0
+iTunesLibrary : 12.9.0
+Dumping headers for : /System/Library/Frameworks/iTunesLibrary.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AOSAccounts/89.2.0.11
+AOSAccounts : 89.2.0.11
+Dumping headers for : /System/Library/PrivateFrameworks/AOSAccounts.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AOSAccountsLite/89.2.0.11
+AOSAccountsLite : 89.2.0.11
+Dumping headers for : /System/Library/PrivateFrameworks/AOSAccountsLite.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AOSUI/648.0.0.11
+AOSUI : 648.0.0.11
+Dumping headers for : /System/Library/PrivateFrameworks/AOSUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/APTransport/370.47
+APTransport : 370.47
 Dumping headers for : /System/Library/PrivateFrameworks/APTransport.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlayReceiver/366.65
-AirPlayReceiver : 366.65
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AVConference/1336.4.62
+AVConference : 1336.4.62
+Dumping headers for : /System/Library/PrivateFrameworks/AVConference.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AVFoundationCF/275.2
+AVFoundationCF : 275.2
+Dumping headers for : /System/Library/PrivateFrameworks/AVFoundationCF.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AXCoreUtilities/1
+AXCoreUtilities : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AXCoreUtilities.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AccessibilityBundles/86.6
+AccessibilityBundles : 86.6
+Dumping headers for : /System/Library/PrivateFrameworks/AccessibilityBundles.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AccessibilityPlatformTranslation/1
+AccessibilityPlatformTranslation : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AccessibilityPlatformTranslation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AccessibilitySupport/91.6
+AccessibilitySupport : 91.6
+Dumping headers for : /System/Library/PrivateFrameworks/AccessibilitySupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AccountsUI/63.0.0.10
+AccountsUI : 63.0.0.10
+Dumping headers for : /System/Library/PrivateFrameworks/AccountsUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AdAnalytics/1
+AdAnalytics : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AdAnalytics.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AdCore/1
+AdCore : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AdCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AdID/1
+AdID : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AdID.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AddressBookAutocomplete/1861
+AddressBookAutocomplete : 1861
+Dumping headers for : /System/Library/PrivateFrameworks/AddressBookAutocomplete.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AddressBookCore/1
+AddressBookCore : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AddressBookCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AggregateDictionary/1
+AggregateDictionary : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AggregateDictionary.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AggregateDictionaryHistory/1
+AggregateDictionaryHistory : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AggregateDictionaryHistory.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlayReceiver/370.47
+AirPlayReceiver : 370.47
 Dumping headers for : /System/Library/PrivateFrameworks/AirPlayReceiver.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlaySender/366.65
-AirPlaySender : 366.65
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlaySender/370.47
+AirPlaySender : 370.47
 Dumping headers for : /System/Library/PrivateFrameworks/AirPlaySender.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlaySupport/366.65
-AirPlaySupport : 366.65
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirPlaySupport/370.47
+AirPlaySupport : 370.47
 Dumping headers for : /System/Library/PrivateFrameworks/AirPlaySupport.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleGVA/11.6.8
-AppleGVA : 11.6.8
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AirTrafficHost/4016.100.19.1
+AirTrafficHost : 4016.100.19.1
+Dumping headers for : /System/Library/PrivateFrameworks/AirTrafficHost.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AnnotationKit/232.3.15
+AnnotationKit : 232.3.15
+Dumping headers for : /System/Library/PrivateFrameworks/AnnotationKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppContainer/360.200.11.10.2
+AppContainer : 360.200.11.10.2
+Dumping headers for : /System/Library/PrivateFrameworks/AppContainer.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppSandbox/360.200.11.10.2
+AppSandbox : 360.200.11.10.2
+Dumping headers for : /System/Library/PrivateFrameworks/AppSandbox.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppStoreDaemon/1
+AppStoreDaemon : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AppStoreDaemon.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppStoreUI/1
+AppStoreUI : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AppStoreUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppSupport/29
+AppSupport : 29
+Dumping headers for : /System/Library/PrivateFrameworks/AppSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Apple80211/1375.5
+Apple80211 : 1375.5
+Dumping headers for : /System/Library/PrivateFrameworks/Apple80211.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleAccount/1.0
+AppleAccount : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/AppleAccount.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleGVA/11.7.21
+AppleGVA : 11.7.21
 Dumping headers for : /System/Library/PrivateFrameworks/AppleGVA.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleGVACore/11.6.8
-AppleGVACore : 11.6.8
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleGVACore/11.7.21
+AppleGVACore : 11.7.21
 Dumping headers for : /System/Library/PrivateFrameworks/AppleGVACore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleVPA/3.8.1
-AppleVPA : 3.8.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleLDAP/46.200.2
+AppleLDAP : 46.200.2
+Dumping headers for : /System/Library/PrivateFrameworks/AppleLDAP.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleMediaServices/1
+AppleMediaServices : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AppleMediaServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleScript/387
+AppleScript : 387
+Dumping headers for : /System/Library/PrivateFrameworks/AppleScript.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleVA/5.0.43
+AppleVA : 5.0.43
+Dumping headers for : /System/Library/PrivateFrameworks/AppleVA.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AppleVPA/3.9.7
+AppleVPA : 3.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/AppleVPA.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AudioServerApplication/312.1
-AudioServerApplication : 312.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AssertionServices/1
+AssertionServices : 1
+Dumping headers for : /System/Library/PrivateFrameworks/AssertionServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AssetCacheServices/83
+AssetCacheServices : 83
+Dumping headers for : /System/Library/PrivateFrameworks/AssetCacheServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AssetCacheServicesExtensions/83
+AssetCacheServicesExtensions : 83
+Dumping headers for : /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AssistiveControlSupport/196.38.2
+AssistiveControlSupport : 196.38.2
+Dumping headers for : /System/Library/PrivateFrameworks/AssistiveControlSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AudioServerApplication/312.2
+AudioServerApplication : 312.2
 Dumping headers for : /System/Library/PrivateFrameworks/AudioServerApplication.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AudioServerDriver/312.1
-AudioServerDriver : 312.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AudioServerDriver/312.2
+AudioServerDriver : 312.2
 Dumping headers for : /System/Library/PrivateFrameworks/AudioServerDriver.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BezelServices/305.1
-BezelServices : 305.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/AutoBugCaptureCore/820.207.59
+AutoBugCaptureCore : 820.207.59
+Dumping headers for : /System/Library/PrivateFrameworks/AutoBugCaptureCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BackBoardServices/1.0
+BackBoardServices : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/BackBoardServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BaseBoard/360.12.1
+BaseBoard : 360.12.1
+Dumping headers for : /System/Library/PrivateFrameworks/BaseBoard.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BezelServices/310
+BezelServices : 310
 Dumping headers for : /System/Library/PrivateFrameworks/BezelServices.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreKE/4.18.1
-CoreKE : 4.18.1
-Dumping headers for : /System/Library/PrivateFrameworks/CoreKE.framework
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BluetoothManager/1
+BluetoothManager : 1
+Dumping headers for : /System/Library/PrivateFrameworks/BluetoothManager.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DFRDisplay/112.70.8
-DFRDisplay : 112.70.8
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Bom/195
+Bom : 195
+Dumping headers for : /System/Library/PrivateFrameworks/Bom.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BookKit/1151
+BookKit : 1151
+Dumping headers for : /System/Library/PrivateFrameworks/BookKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BookmarkDAV/132.1
+BookmarkDAV : 132.1
+Dumping headers for : /System/Library/PrivateFrameworks/BookmarkDAV.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BridgeOSInstall/50
+BridgeOSInstall : 50
+Dumping headers for : /System/Library/PrivateFrameworks/BridgeOSInstall.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BridgeOSInstallReporting/50
+BridgeOSInstallReporting : 50
+Dumping headers for : /System/Library/PrivateFrameworks/BridgeOSInstallReporting.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BridgeXPC/33.200.1
+BridgeXPC : 33.200.1
+Dumping headers for : /System/Library/PrivateFrameworks/BridgeXPC.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/BulkSymbolication/207
+BulkSymbolication : 207
+Dumping headers for : /System/Library/PrivateFrameworks/BulkSymbolication.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/C2/438.14.1
+C2 : 438.14.1
+Dumping headers for : /System/Library/PrivateFrameworks/C2.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CVML/1.87.0
+CVML : 1.87.0
+Dumping headers for : /System/Library/PrivateFrameworks/CVML.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CalDAV/265
+CalDAV : 265
+Dumping headers for : /System/Library/PrivateFrameworks/CalDAV.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CalendarAgent/413
+CalendarAgent : 413
+Dumping headers for : /System/Library/PrivateFrameworks/CalendarAgent.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CalendarFoundation/585
+CalendarFoundation : 585
+Dumping headers for : /System/Library/PrivateFrameworks/CalendarFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CalendarPersistence/494
+CalendarPersistence : 494
+Dumping headers for : /System/Library/PrivateFrameworks/CalendarPersistence.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CalendarUI/491
+CalendarUI : 491
+Dumping headers for : /System/Library/PrivateFrameworks/CalendarUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CalendarUIKit/251
+CalendarUIKit : 251
+Dumping headers for : /System/Library/PrivateFrameworks/CalendarUIKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CallHistory/858
+CallHistory : 858
+Dumping headers for : /System/Library/PrivateFrameworks/CallHistory.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Catalyst/5.3
+Catalyst : 5.3
+Dumping headers for : /System/Library/PrivateFrameworks/Catalyst.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Categories/1.0.27
+Categories : 1.0.27
+Dumping headers for : /System/Library/PrivateFrameworks/Categories.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CharacterPicker/128.16.2
+CharacterPicker : 128.16.2
+Dumping headers for : /System/Library/PrivateFrameworks/CharacterPicker.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ChunkingLibrary/194
+ChunkingLibrary : 194
+Dumping headers for : /System/Library/PrivateFrameworks/ChunkingLibrary.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ClassroomKit/1
+ClassroomKit : 1
+Dumping headers for : /System/Library/PrivateFrameworks/ClassroomKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudDocs/575.107
+CloudDocs : 575.107
+Dumping headers for : /System/Library/PrivateFrameworks/CloudDocs.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudDocsDaemon/575.107
+CloudDocsDaemon : 575.107
+Dumping headers for : /System/Library/PrivateFrameworks/CloudDocsDaemon.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudKitDaemon/736.118
+CloudKitDaemon : 736.118
+Dumping headers for : /System/Library/PrivateFrameworks/CloudKitDaemon.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudPhotoLibrary/3401.2.204
+CloudPhotoLibrary : 3401.2.204
+Dumping headers for : /System/Library/PrivateFrameworks/CloudPhotoLibrary.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudPhotoServices/3401.2.164
+CloudPhotoServices : 3401.2.164
+Dumping headers for : /System/Library/PrivateFrameworks/CloudPhotoServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudServices/297.200.5
+CloudServices : 297.200.5
+Dumping headers for : /System/Library/PrivateFrameworks/CloudServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CommerceKit/708.0.29.2
+CommerceKit : 708.0.29.2
+Dumping headers for : /System/Library/PrivateFrameworks/CommerceKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ConditionInducer/1
+ConditionInducer : 1
+Dumping headers for : /System/Library/PrivateFrameworks/ConditionInducer.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ConfigProfileHelper/1106
+ConfigProfileHelper : 1106
+Dumping headers for : /System/Library/PrivateFrameworks/ConfigProfileHelper.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ConfigurationEngineModel/20.33
+ConfigurationEngineModel : 20.33
+Dumping headers for : /System/Library/PrivateFrameworks/ConfigurationEngineModel.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ConfigurationProfiles/1106
+ConfigurationProfiles : 1106
+Dumping headers for : /System/Library/PrivateFrameworks/ConfigurationProfiles.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ConsoleKit/4.0.2
+ConsoleKit : 4.0.2
+Dumping headers for : /System/Library/PrivateFrameworks/ConsoleKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ContactsAssistantServices/146.10.6.3
+ContactsAssistantServices : 146.10.6.3
+Dumping headers for : /System/Library/PrivateFrameworks/ContactsAssistantServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ContactsAutocomplete/609
+ContactsAutocomplete : 609
+Dumping headers for : /System/Library/PrivateFrameworks/ContactsAutocomplete.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ConversationKit/1
+ConversationKit : 1
+Dumping headers for : /System/Library/PrivateFrameworks/ConversationKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreADI/4.19.0
+CoreADI : 4.19.0
+Dumping headers for : /System/Library/PrivateFrameworks/CoreADI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreAUC/265.0.0
+CoreAUC : 265.0.0
+Dumping headers for : /System/Library/PrivateFrameworks/CoreAUC.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreAVCHD/6000.4.1
+CoreAVCHD : 6000.4.1
+Dumping headers for : /System/Library/PrivateFrameworks/CoreAVCHD.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreAppleCVA/2.2.0
+CoreAppleCVA : 2.2.0
+Dumping headers for : /System/Library/PrivateFrameworks/CoreAppleCVA.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreChineseEngine/391.16.4
+CoreChineseEngine : 391.16.4
+Dumping headers for : /System/Library/PrivateFrameworks/CoreChineseEngine.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreDAV/345
+CoreDAV : 345
+Dumping headers for : /System/Library/PrivateFrameworks/CoreDAV.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreEmoji/69.15.5
+CoreEmoji : 69.15.5
+Dumping headers for : /System/Library/PrivateFrameworks/CoreEmoji.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreFP/2.13.25
+CoreFP : 2.13.25
+Dumping headers for : /System/Library/PrivateFrameworks/CoreFP.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreHAP/484.0.28.4
+CoreHAP : 484.0.28.4
+Dumping headers for : /System/Library/PrivateFrameworks/CoreHAP.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreMediaAuthoring/958
+CoreMediaAuthoring : 958
+Dumping headers for : /System/Library/PrivateFrameworks/CoreMediaAuthoring.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreNLP/130.15.15
+CoreNLP : 130.15.15
+Dumping headers for : /System/Library/PrivateFrameworks/CoreNLP.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreParsec/213.1.16
+CoreParsec : 213.1.16
+Dumping headers for : /System/Library/PrivateFrameworks/CoreParsec.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreRoutine/558.4.13.1
+CoreRoutine : 558.4.13.1
+Dumping headers for : /System/Library/PrivateFrameworks/CoreRoutine.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreServicesInternal/355
+CoreServicesInternal : 355
+Dumping headers for : /System/Library/PrivateFrameworks/CoreServicesInternal.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreSuggestions/680.68.2
+CoreSuggestions : 680.68.2
+Dumping headers for : /System/Library/PrivateFrameworks/CoreSuggestions.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreSuggestionsInternals/680.68.2
+CoreSuggestionsInternals : 680.68.2
+Dumping headers for : /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreSymbolication/64224
+CoreSymbolication : 64224
+Dumping headers for : /System/Library/PrivateFrameworks/CoreSymbolication.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreThemeDefinition/346.15
+CoreThemeDefinition : 346.15
+Dumping headers for : /System/Library/PrivateFrameworks/CoreThemeDefinition.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreTime/250
+CoreTime : 250
+Dumping headers for : /System/Library/PrivateFrameworks/CoreTime.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreUI/498.23
+CoreUI : 498.23
+Dumping headers for : /System/Library/PrivateFrameworks/CoreUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreUtils/570.33
+CoreUtils : 570.33
+Dumping headers for : /System/Library/PrivateFrameworks/CoreUtils.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreWLANKit/1370.5
+CoreWLANKit : 1370.5
+Dumping headers for : /System/Library/PrivateFrameworks/CoreWLANKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CoreWiFi/1370.5
+CoreWiFi : 1370.5
+Dumping headers for : /System/Library/PrivateFrameworks/CoreWiFi.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CreateML/1
+CreateML : 1
+Dumping headers for : /System/Library/PrivateFrameworks/CreateML.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DAAPKit/1
+DAAPKit : 1
+Dumping headers for : /System/Library/PrivateFrameworks/DAAPKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DFRDisplay/112.200.10
+DFRDisplay : 112.200.10
 Dumping headers for : /System/Library/PrivateFrameworks/DFRDisplay.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Email/3445.9.1
-Email : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DFRFoundation/206
+DFRFoundation : 206
+Dumping headers for : /System/Library/PrivateFrameworks/DFRFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DTXConnectionServices/64245
+DTXConnectionServices : 64245
+Dumping headers for : /System/Library/PrivateFrameworks/DTXConnectionServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DataAccessExpress/1.0
+DataAccessExpress : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/DataAccessExpress.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DataDetectors/382
+DataDetectors : 382
+Dumping headers for : /System/Library/PrivateFrameworks/DataDetectors.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DataDetectorsCore/590.12
+DataDetectorsCore : 590.12
+Dumping headers for : /System/Library/PrivateFrameworks/DataDetectorsCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DebugSymbols/183
+DebugSymbols : 183
+Dumping headers for : /System/Library/PrivateFrameworks/DebugSymbols.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DeviceIdentity/1
+DeviceIdentity : 1
+Dumping headers for : /System/Library/PrivateFrameworks/DeviceIdentity.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DeviceManagement/20.33
+DeviceManagement : 20.33
+Dumping headers for : /System/Library/PrivateFrameworks/DeviceManagement.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DirectoryEditor/45
+DirectoryEditor : 45
+Dumping headers for : /System/Library/PrivateFrameworks/DirectoryEditor.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DiskImages/480.200.9
+DiskImages : 480.200.9
+Dumping headers for : /System/Library/PrivateFrameworks/DiskImages.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/DiskManagement/1517.1
+DiskManagement : 1517.1
+Dumping headers for : /System/Library/PrivateFrameworks/DiskManagement.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/EasyConfig/570.33
+EasyConfig : 570.33
+Dumping headers for : /System/Library/PrivateFrameworks/EasyConfig.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Email/3445.100.9.7
+Email : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/Email.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/EmailAddressing/3445.9.1
-EmailAddressing : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/EmailAddressing/3445.100.9.7
+EmailAddressing : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/EmailAddressing.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/EmailCore/3445.9.1
-EmailCore : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/EmailCore/3445.100.9.7
+EmailCore : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/EmailCore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GPUSupport/16.7.4
-GPUSupport : 16.7.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/EmbeddedOSInstall/108
+EmbeddedOSInstall : 108
+Dumping headers for : /System/Library/PrivateFrameworks/EmbeddedOSInstall.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Espresso/107
+Espresso : 107
+Dumping headers for : /System/Library/PrivateFrameworks/Espresso.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ExchangeWebServices/298
+ExchangeWebServices : 298
+Dumping headers for : /System/Library/PrivateFrameworks/ExchangeWebServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FMClient/
+FMClient : 
+Dumping headers for : /System/Library/PrivateFrameworks/FMClient.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FaceCore/3.3.3
+FaceCore : 3.3.3
+Dumping headers for : /System/Library/PrivateFrameworks/FaceCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FileProvider/125.118
+FileProvider : 125.118
+Dumping headers for : /System/Library/PrivateFrameworks/FileProvider.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FindMyMac/55.7.0.3
+FindMyMac : 55.7.0.3
+Dumping headers for : /System/Library/PrivateFrameworks/FindMyMac.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FlightUtilities/115.6
+FlightUtilities : 115.6
+Dumping headers for : /System/Library/PrivateFrameworks/FlightUtilities.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FontServices/1
+FontServices : 1
+Dumping headers for : /System/Library/PrivateFrameworks/FontServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/FrontBoardServices/486.28
+FrontBoardServices : 486.28
+Dumping headers for : /System/Library/PrivateFrameworks/FrontBoardServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GPUSupport/17.0.26
+GPUSupport : 17.0.26
 Dumping headers for : /System/Library/PrivateFrameworks/GPUSupport.framework
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GPUWrangler/3.20.11
-GPUWrangler : 3.20.11
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GPUWrangler/3.22.9
+GPUWrangler : 3.22.9
 Dumping headers for : /System/Library/PrivateFrameworks/GPUWrangler.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/HelpData/167.2
-HelpData : 167.2
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GameCenter/563.118
+GameCenter : 563.118
+Dumping headers for : /System/Library/PrivateFrameworks/GameCenter.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GameCenterFoundation/563.118
+GameCenterFoundation : 563.118
+Dumping headers for : /System/Library/PrivateFrameworks/GameCenterFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GameCenterPrivateUIMac/563.118
+GameCenterPrivateUIMac : 563.118
+Dumping headers for : /System/Library/PrivateFrameworks/GameCenterPrivateUIMac.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GameCenterUI/563.118
+GameCenterUI : 563.118
+Dumping headers for : /System/Library/PrivateFrameworks/GameCenterUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GameKitServices/1336.4.62
+GameKitServices : 1336.4.62
+Dumping headers for : /System/Library/PrivateFrameworks/GameKitServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GenerationalStorage/285.101
+GenerationalStorage : 285.101
+Dumping headers for : /System/Library/PrivateFrameworks/GenerationalStorage.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GeoServices/1365.20.5.10.5
+GeoServices : 1365.20.5.10.5
+Dumping headers for : /System/Library/PrivateFrameworks/GeoServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/GraphicsServices/1.0
+GraphicsServices : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/GraphicsServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/HDAInterface/282.5
+HDAInterface : 282.5
+Dumping headers for : /System/Library/PrivateFrameworks/HDAInterface.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/HMFoundation/1
+HMFoundation : 1
+Dumping headers for : /System/Library/PrivateFrameworks/HMFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/HelpData/178
+HelpData : 178
 Dumping headers for : /System/Library/PrivateFrameworks/HelpData.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IMAP/3445.9.1
-IMAP : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/HomeKit/484.0.28.4
+HomeKit : 484.0.28.4
+Dumping headers for : /System/Library/PrivateFrameworks/HomeKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/HomeKitDaemon/484.0.28.4
+HomeKitDaemon : 484.0.28.4
+Dumping headers for : /System/Library/PrivateFrameworks/HomeKitDaemon.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IASUtilities/497
+IASUtilities : 497
+Dumping headers for : /System/Library/PrivateFrameworks/IASUtilities.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IMAP/3445.100.9.7
+IMAP : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/IMAP.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IOAccelerator/378.25
-IOAccelerator : 378.25
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IOAccelerator/400.12.2
+IOAccelerator : 400.12.2
 Dumping headers for : /System/Library/PrivateFrameworks/IOAccelerator.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LocalAuthenticationUI/425.70.1
-LocalAuthenticationUI : 425.70.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IOPresentment/37
+IOPresentment : 37
+Dumping headers for : /System/Library/PrivateFrameworks/IOPresentment.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IconServices/365.2.1
+IconServices : 365.2.1
+Dumping headers for : /System/Library/PrivateFrameworks/IconServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/InternationalSupport/10.15.3
+InternationalSupport : 10.15.3
+Dumping headers for : /System/Library/PrivateFrameworks/InternationalSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/IntlPreferences/227.15.2
+IntlPreferences : 227.15.2
+Dumping headers for : /System/Library/PrivateFrameworks/IntlPreferences.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/KnowledgeMonitor/1
+KnowledgeMonitor : 1
+Dumping headers for : /System/Library/PrivateFrameworks/KnowledgeMonitor.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LanguageModeling/159.15.10
+LanguageModeling : 159.15.10
+Dumping headers for : /System/Library/PrivateFrameworks/LanguageModeling.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Lexicon/33.15.7
+Lexicon : 33.15.7
+Dumping headers for : /System/Library/PrivateFrameworks/Lexicon.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LimitAdTracking/1
+LimitAdTracking : 1
+Dumping headers for : /System/Library/PrivateFrameworks/LimitAdTracking.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LinguisticData/260
+LinguisticData : 260
+Dumping headers for : /System/Library/PrivateFrameworks/LinguisticData.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LinkPresentation/59.28
+LinkPresentation : 59.28
+Dumping headers for : /System/Library/PrivateFrameworks/LinkPresentation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LocalAuthenticationUI/425.200.19.0.1
+LocalAuthenticationUI : 425.200.19.0.1
 Dumping headers for : /System/Library/PrivateFrameworks/LocalAuthenticationUI.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MTLCompiler/125.29
-MTLCompiler : 125.29
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/LoggingSupport/906.200.52.10.1
+LoggingSupport : 906.200.52.10.1
+Dumping headers for : /System/Library/PrivateFrameworks/LoggingSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Lookup/246
+Lookup : 246
+Dumping headers for : /System/Library/PrivateFrameworks/Lookup.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MMCS/438.14.1
+MMCS : 438.14.1
+Dumping headers for : /System/Library/PrivateFrameworks/MMCS.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MTLCompiler/157.25
+MTLCompiler : 157.25
 Dumping headers for : /System/Library/PrivateFrameworks/MTLCompiler.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Mail/3445.9.1
-Mail : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Mail/3445.100.9.7
+Mail : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/Mail.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailCore/3445.9.1
-MailCore : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailCore/3445.100.9.7
+MailCore : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/MailCore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailService/3445.9.1
-MailService : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailService/3445.100.9.7
+MailService : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/MailService.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailSupport/3445.9.1
-MailSupport : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailSupport/3445.100.9.7
+MailSupport : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/MailSupport.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailUI/3445.9.1
-MailUI : 3445.9.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MailUI/3445.100.9.7
+MailUI : 3445.100.9.7
 Dumping headers for : /System/Library/PrivateFrameworks/MailUI.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MediaControlSender/366.65
-MediaControlSender : 366.65
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ManagedClient/1106
+ManagedClient : 1106
+Dumping headers for : /System/Library/PrivateFrameworks/ManagedClient.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MarkupUI/232.3.15
+MarkupUI : 232.3.15
+Dumping headers for : /System/Library/PrivateFrameworks/MarkupUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MediaControlSender/370.47
+MediaControlSender : 370.47
 Dumping headers for : /System/Library/PrivateFrameworks/MediaControlSender.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MobileDevice/988.50.16.100.2
-MobileDevice : 988.50.16.100.2
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MediaKit/903
+MediaKit : 903
+Dumping headers for : /System/Library/PrivateFrameworks/MediaKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MetadataUtilities/1191.23.3
+MetadataUtilities : 1191.23.3
+Dumping headers for : /System/Library/PrivateFrameworks/MetadataUtilities.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MobileActivation/1
+MobileActivation : 1
+Dumping headers for : /System/Library/PrivateFrameworks/MobileActivation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MobileAsset/437.200.22.10.4
+MobileAsset : 437.200.22.10.4
+Dumping headers for : /System/Library/PrivateFrameworks/MobileAsset.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MobileBluetooth/1.0
+MobileBluetooth : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/MobileBluetooth.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MobileContainerManager/1
+MobileContainerManager : 1
+Dumping headers for : /System/Library/PrivateFrameworks/MobileContainerManager.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MobileDevice/988.200.34.100.3
+MobileDevice : 988.200.34.100.3
 Dumping headers for : /System/Library/PrivateFrameworks/MobileDevice.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MultiverseSupport/27.70.7
-MultiverseSupport : 27.70.7
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Montreal/42.15.7
+Montreal : 42.15.7
+Dumping headers for : /System/Library/PrivateFrameworks/Montreal.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MultitouchSupport/2000.21
+MultitouchSupport : 2000.21
+Dumping headers for : /System/Library/PrivateFrameworks/MultitouchSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/MultiverseSupport/27.200.6
+MultiverseSupport : 27.200.6
 Dumping headers for : /System/Library/PrivateFrameworks/MultiverseSupport.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NearField/286.1
-NearField : 286.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NLP/122.16.9
+NLP : 122.16.9
+Dumping headers for : /System/Library/PrivateFrameworks/NLP.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NanoRegistry/1
+NanoRegistry : 1
+Dumping headers for : /System/Library/PrivateFrameworks/NanoRegistry.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NearField/290.31.1.1
+NearField : 290.31.1.1
 Dumping headers for : /System/Library/PrivateFrameworks/NearField.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/OfficeImport/257.4.1
-OfficeImport : 257.4.1
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NetAppsUtilities/1
+NetAppsUtilities : 1
+Dumping headers for : /System/Library/PrivateFrameworks/NetAppsUtilities.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NeutrinoCore/3401.1.152
+NeutrinoCore : 3401.1.152
+Dumping headers for : /System/Library/PrivateFrameworks/NeutrinoCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NeutrinoKit/3401.1.152
+NeutrinoKit : 3401.1.152
+Dumping headers for : /System/Library/PrivateFrameworks/NeutrinoKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Notes/878.14
+Notes : 878.14
+Dumping headers for : /System/Library/PrivateFrameworks/Notes.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NotesShared/878.14
+NotesShared : 878.14
+Dumping headers for : /System/Library/PrivateFrameworks/NotesShared.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NotesUI/878.14
+NotesUI : 878.14
+Dumping headers for : /System/Library/PrivateFrameworks/NotesUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/NotificationCenterUI/710
+NotificationCenterUI : 710
+Dumping headers for : /System/Library/PrivateFrameworks/NotificationCenterUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/OSInstaller/1135
+OSInstaller : 1135
+Dumping headers for : /System/Library/PrivateFrameworks/OSInstaller.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/OSPersonalization/52.1
+OSPersonalization : 52.1
+Dumping headers for : /System/Library/PrivateFrameworks/OSPersonalization.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/OfficeImport/262
+OfficeImport : 262
 Dumping headers for : /System/Library/PrivateFrameworks/OfficeImport.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteServiceDiscovery/1205.70.5
-RemoteServiceDiscovery : 1205.70.5
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/OpenDirectoryConfigUI/87
+OpenDirectoryConfigUI : 87
+Dumping headers for : /System/Library/PrivateFrameworks/OpenDirectoryConfigUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PASampling/207
+PASampling : 207
+Dumping headers for : /System/Library/PrivateFrameworks/PASampling.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PIP/89
+PIP : 89
+Dumping headers for : /System/Library/PrivateFrameworks/PIP.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PLShutdown/1
+PLShutdown : 1
+Dumping headers for : /System/Library/PrivateFrameworks/PLShutdown.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PSNormalizer/23
+PSNormalizer : 23
+Dumping headers for : /System/Library/PrivateFrameworks/PSNormalizer.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PackageKit/813.3
+PackageKit : 813.3
+Dumping headers for : /System/Library/PrivateFrameworks/PackageKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ParsecUI/1191.23.3
+ParsecUI : 1191.23.3
+Dumping headers for : /System/Library/PrivateFrameworks/ParsecUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PerformanceAnalysis/207
+PerformanceAnalysis : 207
+Dumping headers for : /System/Library/PrivateFrameworks/PerformanceAnalysis.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PersonalizationPortraitInternals/1
+PersonalizationPortraitInternals : 1
+Dumping headers for : /System/Library/PrivateFrameworks/PersonalizationPortraitInternals.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotoAnalysis/3401.0.220
+PhotoAnalysis : 3401.0.220
+Dumping headers for : /System/Library/PrivateFrameworks/PhotoAnalysis.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotoFoundation/3401.2.164
+PhotoFoundation : 3401.2.164
+Dumping headers for : /System/Library/PrivateFrameworks/PhotoFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotoImaging/3401.1.152
+PhotoImaging : 3401.1.152
+Dumping headers for : /System/Library/PrivateFrameworks/PhotoImaging.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotoLibrary/3401.2.164
+PhotoLibrary : 3401.2.164
+Dumping headers for : /System/Library/PrivateFrameworks/PhotoLibrary.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotoLibraryPrivate/3401.2.164
+PhotoLibraryPrivate : 3401.2.164
+Dumping headers for : /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotoVision/12
+PhotoVision : 12
+Dumping headers for : /System/Library/PrivateFrameworks/PhotoVision.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotosFormats/3401.2.164
+PhotosFormats : 3401.2.164
+Dumping headers for : /System/Library/PrivateFrameworks/PhotosFormats.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotosImagingFoundation/3401.2.164
+PhotosImagingFoundation : 3401.2.164
+Dumping headers for : /System/Library/PrivateFrameworks/PhotosImagingFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotosPlayer/3401.2.170
+PhotosPlayer : 3401.2.170
+Dumping headers for : /System/Library/PrivateFrameworks/PhotosPlayer.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PhotosUICore/3401.2.174
+PhotosUICore : 3401.2.174
+Dumping headers for : /System/Library/PrivateFrameworks/PhotosUICore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PlacesKit/3401.2.174
+PlacesKit : 3401.2.174
+Dumping headers for : /System/Library/PrivateFrameworks/PlacesKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PowerLog/1
+PowerLog : 1
+Dumping headers for : /System/Library/PrivateFrameworks/PowerLog.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PowerlogControl/1
+PowerlogControl : 1
+Dumping headers for : /System/Library/PrivateFrameworks/PowerlogControl.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PowerlogDatabaseReader/1
+PowerlogDatabaseReader : 1
+Dumping headers for : /System/Library/PrivateFrameworks/PowerlogDatabaseReader.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PrintingPrivate/180.2
+PrintingPrivate : 180.2
+Dumping headers for : /System/Library/PrivateFrameworks/PrintingPrivate.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ProactiveEventTracker/126.23
+ProactiveEventTracker : 126.23
+Dumping headers for : /System/Library/PrivateFrameworks/ProactiveEventTracker.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ProactiveML/126.23
+ProactiveML : 126.23
+Dumping headers for : /System/Library/PrivateFrameworks/ProactiveML.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ProactiveSupport/126.23
+ProactiveSupport : 126.23
+Dumping headers for : /System/Library/PrivateFrameworks/ProactiveSupport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ProactiveSupportStubs/126.23
+ProactiveSupportStubs : 126.23
+Dumping headers for : /System/Library/PrivateFrameworks/ProactiveSupportStubs.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ProofReader/430.16.9
+ProofReader : 430.16.9
+Dumping headers for : /System/Library/PrivateFrameworks/ProofReader.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ProtocolBuffer/263
+ProtocolBuffer : 263
+Dumping headers for : /System/Library/PrivateFrameworks/ProtocolBuffer.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/PrototypeTools/1
+PrototypeTools : 1
+Dumping headers for : /System/Library/PrivateFrameworks/PrototypeTools.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/QuickLookNonBaseSystem/1
+QuickLookNonBaseSystem : 1
+Dumping headers for : /System/Library/PrivateFrameworks/QuickLookNonBaseSystem.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ROCKit/17
+ROCKit : 17
+Dumping headers for : /System/Library/PrivateFrameworks/ROCKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RTCReporting/9.35.13
+RTCReporting : 9.35.13
+Dumping headers for : /System/Library/PrivateFrameworks/RTCReporting.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Rapport/160.27
+Rapport : 160.27
+Dumping headers for : /System/Library/PrivateFrameworks/Rapport.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RapportUI/160.27
+RapportUI : 160.27
+Dumping headers for : /System/Library/PrivateFrameworks/RapportUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteManagement/1.50.1
+RemoteManagement : 1.50.1
+Dumping headers for : /System/Library/PrivateFrameworks/RemoteManagement.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteServiceDiscovery/1336.200.58.10.2
+RemoteServiceDiscovery : 1336.200.58.10.2
 Dumping headers for : /System/Library/PrivateFrameworks/RemoteServiceDiscovery.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteXPC/1205.70.5
-RemoteXPC : 1205.70.5
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteTextInput/1
+RemoteTextInput : 1
+Dumping headers for : /System/Library/PrivateFrameworks/RemoteTextInput.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteViewServices/126
+RemoteViewServices : 126
+Dumping headers for : /System/Library/PrivateFrameworks/RemoteViewServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RemoteXPC/1336.200.58.10.2
+RemoteXPC : 1336.200.58.10.2
 Dumping headers for : /System/Library/PrivateFrameworks/RemoteXPC.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Restore/480
-Restore : 480
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ResponseKit/109.15.7
+ResponseKit : 109.15.7
+Dumping headers for : /System/Library/PrivateFrameworks/ResponseKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Restore/488
+Restore : 488
 Dumping headers for : /System/Library/PrivateFrameworks/Restore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Safari/13605.3.4
-Safari : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Reveal/5
+Reveal : 5
+Dumping headers for : /System/Library/PrivateFrameworks/Reveal.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/RevealCore/5
+RevealCore : 5
+Dumping headers for : /System/Library/PrivateFrameworks/RevealCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SMBClient/3.3
+SMBClient : 3.3
+Dumping headers for : /System/Library/PrivateFrameworks/SMBClient.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Safari/14606.1.17.40.4
+Safari : 14606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/Safari.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariCore/13605.3.4
-SafariCore : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariCore/14606.1.17.40.4
+SafariCore : 14606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/SafariCore.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariSafeBrowsing/13605.3.4
-SafariSafeBrowsing : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariFoundation/1
+SafariFoundation : 1
+Dumping headers for : /System/Library/PrivateFrameworks/SafariFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariSafeBrowsing/606.1.17.40.4
+SafariSafeBrowsing : 606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariShared/13605.3.4
-SafariShared : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafariShared/14606.1.17.40.4
+SafariShared : 14606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/SafariShared.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafeEjectGPU/18
-SafeEjectGPU : 18
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SafeEjectGPU/19
+SafeEjectGPU : 19
 Dumping headers for : /System/Library/PrivateFrameworks/SafeEjectGPU.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SignpostCollection/2.6
-SignpostCollection : 2.6
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SampleAnalysis/207
+SampleAnalysis : 207
+Dumping headers for : /System/Library/PrivateFrameworks/SampleAnalysis.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ScreenReader/562.38.2
+ScreenReader : 562.38.2
+Dumping headers for : /System/Library/PrivateFrameworks/ScreenReader.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ScreenReaderCore/562.38.2
+ScreenReaderCore : 562.38.2
+Dumping headers for : /System/Library/PrivateFrameworks/ScreenReaderCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ScreenSharing/498.105
+ScreenSharing : 498.105
+Dumping headers for : /System/Library/PrivateFrameworks/ScreenSharing.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SearchFoundation/213.1.16
+SearchFoundation : 213.1.16
+Dumping headers for : /System/Library/PrivateFrameworks/SearchFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SecCodeWrapper/360.200.11.10.2
+SecCodeWrapper : 360.200.11.10.2
+Dumping headers for : /System/Library/PrivateFrameworks/SecCodeWrapper.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Sentry/1
+Sentry : 1
+Dumping headers for : /System/Library/PrivateFrameworks/Sentry.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ServerFoundation/215.91
+ServerFoundation : 215.91
+Dumping headers for : /System/Library/PrivateFrameworks/ServerFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ShareKit/568
+ShareKit : 568
+Dumping headers for : /System/Library/PrivateFrameworks/ShareKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SharedWebCredentials/180.4
+SharedWebCredentials : 180.4
+Dumping headers for : /System/Library/PrivateFrameworks/SharedWebCredentials.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Sharing/1121.1
+Sharing : 1121.1
+Dumping headers for : /System/Library/PrivateFrameworks/Sharing.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SidecarCore/20
+SidecarCore : 20
+Dumping headers for : /System/Library/PrivateFrameworks/SidecarCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SignpostCollection/10
+SignpostCollection : 10
 Dumping headers for : /System/Library/PrivateFrameworks/SignpostCollection.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SignpostNotification/2.6
-SignpostNotification : 2.6
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SignpostNotification/10
+SignpostNotification : 10
 Dumping headers for : /System/Library/PrivateFrameworks/SignpostNotification.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SignpostSupport/2.6
-SignpostSupport : 2.6
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SignpostSupport/10
+SignpostSupport : 10
 Dumping headers for : /System/Library/PrivateFrameworks/SignpostSupport.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UniversalAccess/361.13.8
-UniversalAccess : 361.13.8
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SiriFoundation/146.10.6.3
+SiriFoundation : 146.10.6.3
+Dumping headers for : /System/Library/PrivateFrameworks/SiriFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SiriTTS/210
+SiriTTS : 210
+Dumping headers for : /System/Library/PrivateFrameworks/SiriTTS.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SiriUI/146.10.6.3
+SiriUI : 146.10.6.3
+Dumping headers for : /System/Library/PrivateFrameworks/SiriUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Slideshows/1556.28
+Slideshows : 1556.28
+Dumping headers for : /System/Library/PrivateFrameworks/Slideshows.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SoftwareUpdate/1129.15
+SoftwareUpdate : 1129.15
+Dumping headers for : /System/Library/PrivateFrameworks/SoftwareUpdate.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SpeechObjects/8.0.2
+SpeechObjects : 8.0.2
+Dumping headers for : /System/Library/PrivateFrameworks/SpeechObjects.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SpeechRecognitionCore/5.0.20
+SpeechRecognitionCore : 5.0.20
+Dumping headers for : /System/Library/PrivateFrameworks/SpeechRecognitionCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Spotlight/1191.23.3
+Spotlight : 1191.23.3
+Dumping headers for : /System/Library/PrivateFrameworks/Spotlight.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SpotlightIndex/1191.23.3
+SpotlightIndex : 1191.23.3
+Dumping headers for : /System/Library/PrivateFrameworks/SpotlightIndex.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SpotlightServerKit/1191.23.3
+SpotlightServerKit : 1191.23.3
+Dumping headers for : /System/Library/PrivateFrameworks/SpotlightServerKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SpotlightServices/1191.23.3
+SpotlightServices : 1191.23.3
+Dumping headers for : /System/Library/PrivateFrameworks/SpotlightServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StatsKit/1
+StatsKit : 1
+Dumping headers for : /System/Library/PrivateFrameworks/StatsKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StorageKit/480.12
+StorageKit : 480.12
+Dumping headers for : /System/Library/PrivateFrameworks/StorageKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StoreFoundation/708.0.29.2
+StoreFoundation : 708.0.29.2
+Dumping headers for : /System/Library/PrivateFrameworks/StoreFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StoreJavaScript/708.0.29.2
+StoreJavaScript : 708.0.29.2
+Dumping headers for : /System/Library/PrivateFrameworks/StoreJavaScript.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StoreServices/1
+StoreServices : 1
+Dumping headers for : /System/Library/PrivateFrameworks/StoreServices.framework
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StoreUI/708.0.29.2
+StoreUI : 708.0.29.2
+Dumping headers for : /System/Library/PrivateFrameworks/StoreUI.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/StoreXPCServices/708.0.29.2
+StoreXPCServices : 708.0.29.2
+Dumping headers for : /System/Library/PrivateFrameworks/StoreXPCServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Suggestions/221
+Suggestions : 221
+Dumping headers for : /System/Library/PrivateFrameworks/Suggestions.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Symbolication/64234.1
+Symbolication : 64234.1
+Dumping headers for : /System/Library/PrivateFrameworks/Symbolication.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SymptomDiagnosticReporter/820.207.59
+SymptomDiagnosticReporter : 820.207.59
+Dumping headers for : /System/Library/PrivateFrameworks/SymptomDiagnosticReporter.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SymptomReporter/820.207.59
+SymptomReporter : 820.207.59
+Dumping headers for : /System/Library/PrivateFrameworks/SymptomReporter.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Symptoms/820.207.59
+Symptoms : 820.207.59
+Dumping headers for : /System/Library/PrivateFrameworks/Symptoms.framework
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SyncedDefaults/277
+SyncedDefaults : 277
+Dumping headers for : /System/Library/PrivateFrameworks/SyncedDefaults.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SystemMigration/1174.1
+SystemMigration : 1174.1
+Dumping headers for : /System/Library/PrivateFrameworks/SystemMigration.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/SystemUIPlugin/38
+SystemUIPlugin : 38
+Dumping headers for : /System/Library/PrivateFrameworks/SystemUIPlugin.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/TextToSpeech/1.0
+TextToSpeech : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/TextToSpeech.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/TextureIO/3.8.1
+TextureIO : 3.8.1
+Dumping headers for : /System/Library/PrivateFrameworks/TextureIO.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/TimeSync/700.1
+TimeSync : 700.1
+Dumping headers for : /System/Library/PrivateFrameworks/TimeSync.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/Tourist/1.0.56
+Tourist : 1.0.56
+Dumping headers for : /System/Library/PrivateFrameworks/Tourist.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/TransparencyDetailsViewMac/1
+TransparencyDetailsViewMac : 1
+Dumping headers for : /System/Library/PrivateFrameworks/TransparencyDetailsViewMac.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/TuriCore/0.0.1
+TuriCore : 0.0.1
+Dumping headers for : /System/Library/PrivateFrameworks/TuriCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIFoundation/550.19
+UIFoundation : 550.19
+Dumping headers for : /System/Library/PrivateFrameworks/UIFoundation.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIKitHostAppProtocols/2.7
+UIKitHostAppProtocols : 2.7
+Dumping headers for : /System/Library/PrivateFrameworks/UIKitHostAppProtocols.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIKitHostAppServices/2.7
+UIKitHostAppServices : 2.7
+Dumping headers for : /System/Library/PrivateFrameworks/UIKitHostAppServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIKitSystemAppServices/2.7
+UIKitSystemAppServices : 2.7
+Dumping headers for : /System/Library/PrivateFrameworks/UIKitSystemAppServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/URLFormatting/59.28
+URLFormatting : 59.28
+Dumping headers for : /System/Library/PrivateFrameworks/URLFormatting.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UniversalAccess/361.33.1
+UniversalAccess : 361.33.1
 Dumping headers for : /System/Library/PrivateFrameworks/UniversalAccess.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WebDriver/13605.3.4
-WebDriver : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UsageTracking/28
+UsageTracking : 28
+Dumping headers for : /System/Library/PrivateFrameworks/UsageTracking.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UserActivity/206.1
+UserActivity : 206.1
+Dumping headers for : /System/Library/PrivateFrameworks/UserActivity.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UserManagement/1
+UserManagement : 1
+Dumping headers for : /System/Library/PrivateFrameworks/UserManagement.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/VectorKit/1361.20.5.10.3
+VectorKit : 1361.20.5.10.3
+Dumping headers for : /System/Library/PrivateFrameworks/VectorKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/VideoConference/478
+VideoConference : 478
+Dumping headers for : /System/Library/PrivateFrameworks/VideoConference.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/VideoProcessing/699.9
+VideoProcessing : 699.9
+Dumping headers for : /System/Library/PrivateFrameworks/VideoProcessing.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ViewBridge/379.1.1
+ViewBridge : 379.1.1
+Dumping headers for : /System/Library/PrivateFrameworks/ViewBridge.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/VoiceServices/1.0
+VoiceServices : 1.0
+Dumping headers for : /System/Library/PrivateFrameworks/VoiceServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WeatherKit/161
+WeatherKit : 161
+Dumping headers for : /System/Library/PrivateFrameworks/WeatherKit.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WebDriver/14606.1.17.40.4
+WebDriver : 14606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/WebDriver.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WebInspector/13605.3.4
-WebInspector : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WebInspector/14606.1.17.40.4
+WebInspector : 14606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/WebInspector.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WebInspectorUI/13605.3.4
-WebInspectorUI : 13605.3.4
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WebInspectorUI/14606.1.17.40.4
+WebInspectorUI : 14606.1.17.40.4
 Dumping headers for : /System/Library/PrivateFrameworks/WebInspectorUI.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iTunesAccess/12.7.5
-iTunesAccess : 12.7.5
-Dumping headers for : /System/Library/PrivateFrameworks/iTunesAccess.framework
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/WirelessDiagnostics/930.8
+WirelessDiagnostics : 930.8
+Dumping headers for : /System/Library/PrivateFrameworks/WirelessDiagnostics.framework
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/AirPlayUIAgent/366.65
-AirPlayUIAgent : 366.65
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iAdCore/1
+iAdCore : 1
+Dumping headers for : /System/Library/PrivateFrameworks/iAdCore.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iAdServices/1
+iAdServices : 1
+Dumping headers for : /System/Library/PrivateFrameworks/iAdServices.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iCalendar/287
+iCalendar : 287
+Dumping headers for : /System/Library/PrivateFrameworks/iCalendar.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iLifeMediaBrowser/755
+iLifeMediaBrowser : 755
+Dumping headers for : /System/Library/PrivateFrameworks/iLifeMediaBrowser.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iPod/24
+iPod : 24
+Dumping headers for : /System/Library/PrivateFrameworks/iPod.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/iPodUpdater/301
+iPodUpdater : 301
+Dumping headers for : /System/Library/PrivateFrameworks/iPodUpdater.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/ktrace/271.200.15.10.1
+ktrace : 271.200.15.10.1
+Dumping headers for : /System/Library/PrivateFrameworks/ktrace.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/perfdata/4.200.8
+perfdata : 4.200.8
+Dumping headers for : /System/Library/PrivateFrameworks/perfdata.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/zudp/1
+zudp : 1
+Dumping headers for : /System/Library/PrivateFrameworks/zudp.framework
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/AddPrinter/555.2
+AddPrinter : 555.2
+Dumping headers for : /System/Library/CoreServices/AddPrinter.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/AddressBookUrlForwarder/1861
+AddressBookUrlForwarder : 1861
+Dumping headers for : /System/Library/CoreServices/AddressBookUrlForwarder.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/AirPlayUIAgent/370.47
+AirPlayUIAgent : 370.47
 Dumping headers for : /System/Library/CoreServices/AirPlayUIAgent.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Bluetooth Setup Assistant/6.0.7f7
-Bluetooth Setup Assistant : 6.0.7f7
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Bluetooth Setup Assistant/6.0.8d20
+Bluetooth Setup Assistant : 6.0.8d20
 Dumping headers for : /System/Library/CoreServices/Bluetooth Setup Assistant.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/BluetoothUIServer/6.0.7f7
-BluetoothUIServer : 6.0.7f7
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/BluetoothUIServer/6.0.8d20
+BluetoothUIServer : 6.0.8d20
 Dumping headers for : /System/Library/CoreServices/BluetoothUIServer.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/HelpViewer/341.1
-HelpViewer : 341.1
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Certificate Assistant/55174.200.3
+Certificate Assistant : 55174.200.3
+Dumping headers for : /System/Library/CoreServices/Certificate Assistant.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/ControlStrip/184
+ControlStrip : 184
+Dumping headers for : /System/Library/CoreServices/ControlStrip.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/CoreServicesUIAgent/207.1
+CoreServicesUIAgent : 207.1
+Dumping headers for : /System/Library/CoreServices/CoreServicesUIAgent.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/DiskImageMounter/480.200.9
+DiskImageMounter : 480.200.9
+Dumping headers for : /System/Library/CoreServices/DiskImageMounter.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Dock/1919
+Dock : 1919
+Dumping headers for : /System/Library/CoreServices/Dock.app
+Tyring to dump protected file /System/Library/CoreServices/Dock.app...
+Successfully dumped protected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Dwell Control/196.38.2
+Dwell Control : 196.38.2
+Dumping headers for : /System/Library/CoreServices/Dwell Control.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Finder/1117.9
+Finder : 1117.9
+Dumping headers for : /System/Library/CoreServices/Finder.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/HelpViewer/348
+HelpViewer : 348
 Dumping headers for : /System/Library/CoreServices/HelpViewer.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Keychain Circle Notification/58286.70.4
-Keychain Circle Notification : 58286.70.4
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Install in Progress/813.3
+Install in Progress : 813.3
+Dumping headers for : /System/Library/CoreServices/Install in Progress.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Installer Progress/497
+Installer Progress : 497
+Dumping headers for : /System/Library/CoreServices/Installer Progress.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Installer/928
+Installer : 928
+Dumping headers for : /System/Library/CoreServices/Installer.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Keychain Circle Notification/58286.200.129.11.2
+Keychain Circle Notification : 58286.200.129.11.2
 Dumping headers for : /System/Library/CoreServices/Keychain Circle Notification.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/OBEXAgent/6.0.7f7
-OBEXAgent : 6.0.7f7
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Language Chooser/563
+Language Chooser : 563
+Dumping headers for : /System/Library/CoreServices/Language Chooser.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/ManagedClient/1106
+ManagedClient : 1106
+Dumping headers for : /System/Library/CoreServices/ManagedClient.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/NotificationCenter/710
+NotificationCenter : 710
+Dumping headers for : /System/Library/CoreServices/NotificationCenter.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/OBEXAgent/6.0.8d20
+OBEXAgent : 6.0.8d20
 Dumping headers for : /System/Library/CoreServices/OBEXAgent.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Setup Assistant/2010.1.2
-Setup Assistant : 2010.1.2
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/PIPAgent/89
+PIPAgent : 89
+Dumping headers for : /System/Library/CoreServices/PIPAgent.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Paired Devices/160.27
+Paired Devices : 160.27
+Dumping headers for : /System/Library/CoreServices/Paired Devices.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Photo Library Migration Utility/2101.20.130
+Photo Library Migration Utility : 2101.20.130
+Dumping headers for : /System/Library/CoreServices/Photo Library Migration Utility.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/RapportUIAgent/160.27
+RapportUIAgent : 160.27
+Dumping headers for : /System/Library/CoreServices/RapportUIAgent.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/RegisterPluginIMApp/18.15.1
+RegisterPluginIMApp : 18.15.1
+Dumping headers for : /System/Library/CoreServices/RegisterPluginIMApp.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/ScriptMenu/1
+ScriptMenu : 1
+Dumping headers for : /System/Library/CoreServices/ScriptMenu.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Setup Assistant/2044.3
+Setup Assistant : 2044.3
 Dumping headers for : /System/Library/CoreServices/Setup Assistant.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/UniversalAccessControl/361.13.8
-UniversalAccessControl : 361.13.8
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Siri/146.10.6.3
+Siri : 146.10.6.3
+Dumping headers for : /System/Library/CoreServices/Siri.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/SocialPushAgent/61
+SocialPushAgent : 61
+Dumping headers for : /System/Library/CoreServices/SocialPushAgent.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Software Update/1129.15
+Software Update : 1129.15
+Dumping headers for : /System/Library/CoreServices/Software Update.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Spotlight/1191.23.3
+Spotlight : 1191.23.3
+Dumping headers for : /System/Library/CoreServices/Spotlight.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/SystemUIServer/470
+SystemUIServer : 470
+Dumping headers for : /System/Library/CoreServices/SystemUIServer.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/Ticket Viewer/36.200.1
+Ticket Viewer : 36.200.1
+Dumping headers for : /System/Library/CoreServices/Ticket Viewer.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/UIKitSystem/2.7
+UIKitSystem : 2.7
+Dumping headers for : /System/Library/CoreServices/UIKitSystem.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/UniversalAccessControl/361.33.1
+UniversalAccessControl : 361.33.1
 Dumping headers for : /System/Library/CoreServices/UniversalAccessControl.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/UserNotificationCenter/42
+UserNotificationCenter : 42
+Dumping headers for : /System/Library/CoreServices/UserNotificationCenter.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/VoiceOver/562.38.2
+VoiceOver : 562.38.2
+Dumping headers for : /System/Library/CoreServices/VoiceOver.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/WiFiAgent/1375.5
+WiFiAgent : 1375.5
+Dumping headers for : /System/Library/CoreServices/WiFiAgent.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/cloudphotosd/3401.2.164
+cloudphotosd : 3401.2.164
+Dumping headers for : /System/Library/CoreServices/cloudphotosd.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/loginwindow/1915
+loginwindow : 1915
+Dumping headers for : /System/Library/CoreServices/loginwindow.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/screencaptureui/185
+screencaptureui : 185
+Dumping headers for : /System/Library/CoreServices/screencaptureui.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Directory Utility/414
+Directory Utility : 414
+Dumping headers for : /System/Library/CoreServices/Applications/Directory Utility.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Feedback Assistant/348
+Feedback Assistant : 348
+Dumping headers for : /System/Library/CoreServices/Applications/Feedback Assistant.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Folder Actions Setup/30
+Folder Actions Setup : 30
+Dumping headers for : /System/Library/CoreServices/Applications/Folder Actions Setup.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Network Utility/125.1
+Network Utility : 125.1
+Dumping headers for : /System/Library/CoreServices/Applications/Network Utility.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Screen Sharing/498.105
+Screen Sharing : 498.105
+Dumping headers for : /System/Library/CoreServices/Applications/Screen Sharing.app
+Successfully dumped unprotected file
+
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/System Image Utility/832
+System Image Utility : 832
+Dumping headers for : /System/Library/CoreServices/Applications/System Image Utility.app
 Successfully dumped unprotected file
 
 
