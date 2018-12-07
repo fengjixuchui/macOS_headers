@@ -1,78 +1,33 @@
 New macOS version detected
 Dumping headers...
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/AppCleaner/3922
-AppCleaner : 3922
-Dumping headers for : /Applications/AppCleaner.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/GarageBand/4980.96
+GarageBand : 4980.96
+Dumping headers for : /Applications/GarageBand.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Battle.net/1.12.6 (10789)
-Battle.net : 1.12.6 (10789)
-Dumping headers for : /Applications/Battle.net.app
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Cakebrew/560
-Cakebrew : 560
-Dumping headers for : /Applications/Cakebrew.app
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome Canary/3628.0
-Google Chrome Canary : 3628.0
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome Canary/3633.0
+Google Chrome Canary : 3633.0
 Dumping headers for : /Applications/Google Chrome Canary.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome/3538.110
-Google Chrome : 3538.110
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Google Chrome/3578.80
+Google Chrome : 3578.80
 Dumping headers for : /Applications/Google Chrome.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/HiddenMe/35
-HiddenMe : 35
-Dumping headers for : /Applications/HiddenMe.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/NTFS for Mac/15.4.20
+NTFS for Mac : 15.4.20
+Dumping headers for : /Applications/NTFS for Mac.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Impactor/1540877621
-Impactor : 1540877621
-Dumping headers for : /Applications/Impactor.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/Safari Technology Preview/14607.1.15
+Safari Technology Preview : 14607.1.15
+Dumping headers for : /Applications/Safari Technology Preview.app
 Successfully dumped unprotected file
 
-/Users/w0lf/GitHub/wb_headers/macOS/Applications/Spotify/1.0.94.262.g3d5c231c-8
-Spotify : 1.0.94.262.g3d5c231c-8
-Dumping headers for : /Applications/Spotify.app
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/Frameworks/AppKit/1671.20.108
-AppKit : 1671.20.108
-Dumping headers for : /System/Library/Frameworks/AppKit.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudDocs/575.204
-CloudDocs : 575.204
-Dumping headers for : /System/Library/PrivateFrameworks/CloudDocs.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/CloudDocsDaemon/575.204
-CloudDocsDaemon : 575.204
-Dumping headers for : /System/Library/PrivateFrameworks/CloudDocsDaemon.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIKitHostAppProtocols/39
-UIKitHostAppProtocols : 39
-Dumping headers for : /System/Library/PrivateFrameworks/UIKitHostAppProtocols.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIKitHostAppServices/39
-UIKitHostAppServices : 39
-Dumping headers for : /System/Library/PrivateFrameworks/UIKitHostAppServices.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/PrivateFrameworks/UIKitSystemAppServices/39
-UIKitSystemAppServices : 39
-Dumping headers for : /System/Library/PrivateFrameworks/UIKitSystemAppServices.framework
-Successfully dumped unprotected file
-
-/Users/w0lf/GitHub/wb_headers/macOS/CoreServices/UIKitSystem/39
-UIKitSystem : 39
-Dumping headers for : /System/Library/CoreServices/UIKitSystem.app
+/Users/w0lf/GitHub/wb_headers/macOS/Applications/stts/29
+stts : 29
+Dumping headers for : /Applications/stts.app
 Successfully dumped unprotected file
 
 
