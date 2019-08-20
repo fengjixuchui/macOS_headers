@@ -23,40 +23,89 @@ function class_dump() {
 		_fext=${_base##*.}
 		_pref=${_base%.*}
 
+		# Check for the best Version info...
 		if [[ "$_fext" == "app" ]] || [[ "$_fext" == "framework" ]]; then
 
-			_info="$_file"/Contents/Info.plist
-			if [[ "$_fext" == "framework" ]]; then _info="$_file"/Resources/Info.plist; fi
+			# Handle app location
+			if [[ "$_fext" == "app" ]]; then 
 
-			# _shrt=$(plistbuddy "Print CFBundleShortVersionString" "$_info")
-			_vers=$(plistbuddy "Print CFBundleVersion" "$_info" 2>/dev/null)
-			if [[ $_vers == *"File Doesn't Exist"* ]]; then
-				_info2="$_file"/Resources/Info.plist
-				_vers=$(plistbuddy "Print CFBundleVersion" "$_info2" 2>/dev/null)
+				# Check for CFBundleShortVersionString in info.plist
+				_info="$_file"/Contents/Info.plist
+				if [[ -f "$_info" ]]; then
+						_vers=$(plistbuddy "Print CFBundleShortVersionString" "$_info" 2>/dev/null)
+
+						# Check for CFBundleVersion in info.plist if CFBundleShortVersionString was not very useful
+						if [[ $_vers == 1.0 || $_vers == "" ]]; then
+							_vers=$(plistbuddy "Print CFBundleVersion" "$_info" 2>/dev/null)
+						fi
+				fi
+			fi
+			
+
+			# Handle framework location
+			if [[ "$_fext" == "framework" ]]; then 
+
+				# Check for BuildVersion in version.plist
+				_info="$_file"/Resources/version.plist
+				if [[ -f "$_info" ]]; then
+					_vers=$(plistbuddy "Print BuildVersion" "$_info" 2>/dev/null)
+
+					# Save the exit code, which indicates success v. failure
+					exitCode=$? 
+
+					# Try to handle no build version found
+					if [[ $exitCode != 0 ]]; then
+						_info="$_file"/Resources/version.plist
+						_vers=$(plistbuddy "Print CFBundleShortVersionString" "$_info" 2>/dev/null)
+
+						if [[ $_vers == 1.0 || $_vers == "" ]]; then
+							# handle not using info.plist for actual versioning
+							_vers=$(plistbuddy "Print CFBundleVersion" "$_info" 2>/dev/null)
+						fi
+					fi
+				fi
 			fi
 
-			if [[ $_vers != *"File"* ]]; then
-				_resl="$?"
-				if [[ "$_resl" != 0 ]]; then 
-					echo "$_resl : $_vers"
-					echo "$_file"
-					echo
-				fi
+			# If the file exists
+			if [[ -f "$_info" ]]; then
 
-				dump_path="$_home"/macOS/"$_fldr"/"$_pref"/"$_vers"
-	            # dump_item "$_file" "$dump_path"
-			
-	            if [ ! -e "$dump_path" ]; then
-	            	echo "$dump_path"
-	                echo "$_pref" : "$_vers"
-	                mkdir -p "$dump_path"
-	                "$_exec/dump.sh" "$_file" "$dump_path"
-	                echo
-	                # changelog
-	                echo "$_fldr/$_pref : $_vers" >> "$_log"
-	            fi
-        	fi
+				# Test
+				# echo $_fext : $_vers : $_info
+				
+				if [[ $_vers != *"File"* ]]; then
+					_resl="$?"
+					if [[ "$_resl" != 0 ]]; then 
+						echo "$_resl : $_vers"
+						echo "$_file"
+						echo
+					fi
 
+					# Put iOSSupport in it's own folder
+					dump_path="$_home"/macOS/"$_fldr"/"$_pref"/"$_vers"
+					if [[ $_info =~ "iOSSupport" ]]; then
+					   dump_path="$_home"/macOS/iOSSupport/"$_fldr"/"$_pref"/"$_vers"
+					fi
+				
+					# Dump it!
+		            if [ ! -e "$dump_path" ]; then
+		            	echo "$dump_path"
+		                echo "$_pref" : "$_vers"
+		                
+		                # Make folder to dump to
+		                mkdir -p "$dump_path"
+
+		                # Dump file
+		                "$_exec/dump.sh" "$_file" "$dump_path"
+		                
+		                # Hello
+		                echo
+		                
+		                # update changelog
+		                echo "$_fldr/$_pref : $_vers" >> "$_log"
+		            fi
+	        	fi
+
+			fi
 			# echo "path: $_file"
 			# echo "base: $_fldr"
 			# echo "name: $_pref"
