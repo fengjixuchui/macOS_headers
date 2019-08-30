@@ -42,7 +42,7 @@ if [[ "$1" ]]; then
 	fi
 
 	# Error status for testing
-	echo $?
+	# echo $?
 
 	# Check if dumping succeded, if not try to deprotect and dump the file
 	if [[ $_isProtected =~ "decryptedData" ]]; then

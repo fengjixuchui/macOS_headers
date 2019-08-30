@@ -29,14 +29,14 @@ function class_dump() {
 			# Handle app location
 			if [[ "$_fext" == "app" ]]; then 
 
-				# Check for CFBundleShortVersionString in info.plist
+				# Check for CFBundleVersion in info.plist
 				_info="$_file"/Contents/Info.plist
 				if [[ -f "$_info" ]]; then
-						_vers=$(plistbuddy "Print CFBundleShortVersionString" "$_info" 2>/dev/null)
+						_vers=$(plistbuddy "Print CFBundleVersion" "$_info" 2>/dev/null)
 
-						# Check for CFBundleVersion in info.plist if CFBundleShortVersionString was not very useful
+						# Check for CFBundleShortVersionString in info.plist if CFBundleVersion was not very useful
 						if [[ $_vers == 1.0 || $_vers == "" ]]; then
-							_vers=$(plistbuddy "Print CFBundleVersion" "$_info" 2>/dev/null)
+							_vers=$(plistbuddy "Print CFBundleShortVersionString" "$_info" 2>/dev/null)
 						fi
 				fi
 			fi
