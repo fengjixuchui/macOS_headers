@@ -7,6 +7,8 @@ Included in this repository are dumps of binaries found in:
 ```
 /Applications
 /Applications/Utilities
+
+/System/Applications
 /System/Library/Frameworks
 /System/Library/PrivateFrameworks
 /System/Library/CoreServices
