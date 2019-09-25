@@ -9,6 +9,8 @@ Included in this repository are dumps of binaries found in:
 /Applications/Utilities
 
 /System/Applications
+/System/Applications/Utilities
+
 /System/Library/Frameworks
 /System/Library/PrivateFrameworks
 /System/Library/CoreServices

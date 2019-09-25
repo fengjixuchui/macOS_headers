@@ -121,7 +121,10 @@ function class_dump() {
 # macOS
 class_dump "/Applications"
 class_dump "/Applications/Utilities"
+
 class_dump "/System/Applications"
+class_dump "/System/Applications/Utilities"
+
 class_dump "/System/Library/Frameworks"
 class_dump "/System/Library/PrivateFrameworks"
 class_dump "/System/Library/CoreServices"
